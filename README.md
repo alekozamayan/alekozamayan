@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alekozamayan
+- 👀 I’m interested in embedded software development and algorithms.
+- 🌱 I’m also interested in learning more of Python and DevOps tools to automate operations.
